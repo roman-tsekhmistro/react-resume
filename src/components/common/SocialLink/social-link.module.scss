@@ -1,0 +1,10 @@
+.link_img {
+  height: 45px;
+  width: 45px;
+  transition: transform .15s linear;
+
+  &:hover {
+    cursor: pointer;
+    transform: scale(1.25);
+  }
+}

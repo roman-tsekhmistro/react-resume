@@ -1,0 +1,22 @@
+@import "../../../assets/styles/main";
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  color: #fff;
+  width: 540px;
+  height: 400px;
+  font-weight: 400;
+  letter-spacing: .8px;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.details {
+  font-size: 20px;
+  line-height: 28px;
+}

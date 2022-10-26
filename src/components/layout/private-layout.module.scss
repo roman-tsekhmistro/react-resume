@@ -1,0 +1,23 @@
+.private_layout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #08AEEA;
+  background-image: linear-gradient(0deg, #2AF598 0%, #08AEEA 100%);
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.content{
+  margin-left: 40px;
+}
